@@ -22,24 +22,24 @@
     <qtDefaultName>1</qtDefaultName>
     <rnwkDefaultName>1</rnwkDefaultName>
     <swcDefaultName>1</swcDefaultName>
-    <flashFileName>JeuDuBogue.swf</flashFileName>
-    <projectorWinFileName>JeuDuBogue.exe</projectorWinFileName>
-    <projectorMacFileName>JeuDuBogue.app</projectorMacFileName>
-    <htmlFileName>JeuDuBogue.html</htmlFileName>
-    <gifFileName>JeuDuBogue.gif</gifFileName>
-    <jpegFileName>JeuDuBogue.jpg</jpegFileName>
-    <pngFileName>JeuDuBogue.png</pngFileName>
-    <qtFileName>JeuDuBogue.mov</qtFileName>
-    <rnwkFileName>JeuDuBogue.smil</rnwkFileName>
-    <swcFileName>JeuDuBogue.swc</swcFileName>
+    <flashFileName>RECUPERE_JeuDuBogue.swf</flashFileName>
+    <projectorWinFileName>RECUPERE_JeuDuBogue.exe</projectorWinFileName>
+    <projectorMacFileName>RECUPERE_JeuDuBogue.app</projectorMacFileName>
+    <htmlFileName>RECUPERE_JeuDuBogue.html</htmlFileName>
+    <gifFileName>RECUPERE_JeuDuBogue.gif</gifFileName>
+    <jpegFileName>RECUPERE_JeuDuBogue.jpg</jpegFileName>
+    <pngFileName>RECUPERE_JeuDuBogue.png</pngFileName>
+    <qtFileName>RECUPERE_JeuDuBogue.mov</qtFileName>
+    <rnwkFileName>RECUPERE_JeuDuBogue.smil</rnwkFileName>
+    <swcFileName>RECUPERE_JeuDuBogue.swc</swcFileName>
   </PublishFormatProperties>
   <PublishHtmlProperties enabled="true">
     <VersionDetectionIfAvailable>0</VersionDetectionIfAvailable>
     <VersionInfo>11,4,0,0;11,3,0,0;12,0,0,0;11,2,0,0;11,1,0,0;10,3,0,0;10,2,153,0;10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
     <UsingDefaultContentFilename>1</UsingDefaultContentFilename>
     <UsingDefaultAlternateFilename>1</UsingDefaultAlternateFilename>
-    <ContentFilename>JeuDuBogue.xfl_content.html</ContentFilename>
-    <AlternateFilename>JeuDuBogue.xfl_alternate.html</AlternateFilename>
+    <ContentFilename>RECUPERE_JeuDuBogue.xfl_content.html</ContentFilename>
+    <AlternateFilename>RECUPERE_JeuDuBogue.xfl_alternate.html</AlternateFilename>
     <UsingOwnAlternateFile>0</UsingOwnAlternateFile>
     <OwnAlternateFilename></OwnAlternateFilename>
     <Width>600</Width>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mcGameOver" itemID="522f5bf0-000001e2" linkageExportForAS="true" linkageClassName="GameOver" lastModified="1378991532">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mcGameOver" itemID="522f5bf0-000001e2" linkageExportForAS="true" linkageClassName="GameOver" lastModified="1378993779">
   <timeline>
     <DOMTimeline name="mcGameOver" currentFrame="23">
       <layers>
@@ -29,7 +29,17 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="fond" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Calque 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728" soundName="Sploutch.mp3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fond" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="24" keyMode="9728">
               <elements>
